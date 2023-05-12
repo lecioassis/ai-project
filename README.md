@@ -1,4 +1,5 @@
 # Real-Time Music Recommendation: Contextualized Algorithm for Playlist Personalization
+> **_NOTE:_** This README file will be updated to its proper format further in the development of the project. For now it is a copy of the english version of the SUMMARY. 
 
 When using the shuffle feature on Spotify, users often encounter undesired behaviors, such as the constant repetition of a limited set of songs within a larger playlist. This disappointing experience is the result of a sorting system that is not truly random. It has been found that Spotify's algorithm tends to spread songs from the same artist and albums throughout the playlist, intentionally introducing some imperfections in the playback, all with the purpose of creating an illusion of randomness. However, this project aims to break away from this paradigm by offering a new approach to song sorting, where cohesion and determination are prioritized over the mere sense of randomness.
 
