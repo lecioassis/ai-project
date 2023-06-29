@@ -1,3 +1,9 @@
+---
+noteId: "a90d11300a6311eeb8c73b9dad717516"
+tags: []
+
+---
+
 # Recomendação Musical em Tempo Real: Algoritmo Contextualizado para Personalização de Listas de Reprodução
 
 Ao utilizar a funcionalidade de reprodução aleatória no Spotify, os usuários frequentemente se deparam com comportamentos indesejados, como a repetição constante de um conjunto limitado de músicas dentro de uma playlist maior. Essa experiência decepcionante é resultado de um sistema de ordenação que não é verdadeiramente aleatório. Descobriu-se que o algoritmo do Spotify tende a espalhar músicas do mesmo artista e dos mesmos álbuns ao longo da playlist, além de introduzir intencionalmente algumas imperfeições na execução, tudo isso com o propósito de criar uma ilusão de aleatoriedade. No entanto, este projeto busca romper com esse paradigma, oferecendo uma nova abordagem para a ordenação de músicas, onde a coesão e a determinação são priorizadas em detrimento da mera sensação de aleatoriedade.
