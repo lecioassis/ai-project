@@ -6,3 +6,4 @@ tracks.csv
 .cache
 tests.ipynb
 kaggle.ipynb
+output.*
