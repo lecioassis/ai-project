@@ -1,6 +1,7 @@
 # Real-Time Music Recommendation: Contextualized Algorithm for Playlist Personalization
 > **_NOTE:_** This README file will be updated to its proper format further in the development of the project. For now it is a copy of the english version of the SUMMARY. 
 
+![robot dj](readme/robot.jpg)
 ## Issues
 
 1. The requests to the API are limited and there is no way to get any complete dataset;
