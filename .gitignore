@@ -5,3 +5,5 @@ tracks.csv
 /data
 .cache
 tests.ipynb
+kaggle.ipynb
+output.*
