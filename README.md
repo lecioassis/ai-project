@@ -1,5 +1,5 @@
 # Real-Time Music Recommendation: Contextualized Algorithm for Playlist Personalization
-> **_NOTE:_** This README file will be updated to its proper format further in the development of the project. For now it is a copy of the english version of the SUMMARY. 
+> **_NOTE:_** This project is no longer in development. Nevertheless, it has served as the inspiration for a new venture focused on Image Emotion Analysis. Stay tuned for updates!
 
 ![robot dj](readme/robot.jpg)
 
